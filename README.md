@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Noah Al-Soodinay<br><br>Currently a Y2 Student in Nanyang Polytechnic, Pursuing a Diploma in Infocomm & Security. <br>My Personal and School Projects are Posted here.<br><br>👨‍💻 My Digital Portfolio | noahfxs.com(https://noahfxs.com/)<br><br>📫 How to reach me | soodinaynoah@gmail.com<br>
+Hi 👋, I'm Noah Al-Soodinay<br><br>Currently a Y2 Student in Nanyang Polytechnic, Pursuing a Diploma in Infocomm & Security. <br>My Personal and School Projects are Posted here.<br><br>👨‍💻 My Digital Portfolio | https://noahfxs.com<br><br>📫 How to reach me | soodinaynoah@gmail.com<br>
 
 
 ## 🌐 Socials:
